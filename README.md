@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="https://harsh">Urvashi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-I'm a Software Engineer specializing in Backend Development at Rakuten. I am committed to designing and implementing robust, scalable backend systems.
 
 ## 💫 About Me:
+I'm a Software Engineer specializing in Backend Development at Rakuten. I am committed to designing and implementing robust, scalable backend systems.
 
 ## 💡 Professional Interests
 I am passionate about tackling complex challenges and continuously advancing my technical skills. My dedication to lifelong learning ensures I stay current with the latest industry trends and technologies.
@@ -11,11 +11,17 @@ I am passionate about tackling complex challenges and continuously advancing my 
 Driven by curiosity and a commitment to excellence, I am eager to explore innovative solutions, collaborate with talented professionals, and make meaningful contributions to the tech community.
 
 ## 👩🏻‍💻 Skills:
-**Backend Development:** Expertise in Java
+**Backend Development:** Java, Springboot
 
-**Frontend Technologies:** Proficient in HTML, CSS, and JavaScript
+**Frontend Technologies:** HTML, CSS, and JavaScript
 
-**Algorithmic Problem Solving:** Strong foundation in Data Structures and Algorithms (DSA)
+**Database:** MySQL, PostgreSQL, Couchbase
+
+**Orchestration:** Camunda
+
+**Tools:** Jenkins(CI/CD), Postman, VScode, IntelliJ, MacOS, JFrog, Grafana, SonarQube
+
+**Algorithmic Problem Solving:** Data Structures and Algorithms (DSA)
 
 ## 🌐 Social: 
 <p align = "center">
