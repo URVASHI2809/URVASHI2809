@@ -30,6 +30,11 @@ Driven by curiosity and a commitment to excellence, I am eager to explore innova
   <a href="https://leetcode.com/u/Urvashi-Prajapati/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge" alt="LeetCode Badge"></a>
 </p>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=URVASHI2809&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=URVASHI2809&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=URVASHI2809&theme=dark&hide_border=false)<br/>
+
 
 <br>
 <br>
