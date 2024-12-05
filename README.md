@@ -10,7 +10,7 @@ I am passionate about tackling complex challenges and continuously advancing my 
 ## 🚀 Professional Drive
 Driven by curiosity and a commitment to excellence, I am eager to explore innovative solutions, collaborate with talented professionals, and make meaningful contributions to the tech community.
 
-## 👩🏻‍💻 Skills:
+## 👩🏻‍💻 Skills:  
 **Backend Development:** Java, Springboot
 
 **Frontend Technologies:** HTML, CSS, and JavaScript
