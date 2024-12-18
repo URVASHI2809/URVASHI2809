@@ -2,7 +2,7 @@
   
 ## 💫 About Me:
 I'm a Software Engineer specializing in Backend Development at Rakuten. I am committed to designing and implementing robust, scalable backend systems. 
-  
+    
 ## 💡 Professional Interests
 I am passionate about tackling complex challenges and continuously advancing my technical skills. My dedication to lifelong learning ensures I stay current with the latest industry trends and technologies.
 
