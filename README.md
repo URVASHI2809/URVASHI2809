@@ -1,4 +1,4 @@
-<h1>Hii, I'm <a href="https://harsh">Urvashi Prajapati</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hi, I'm <a href="https://harsh">Urvashi Prajapati</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
 ## 💫 About Me:
 I'm a Software Engineer specializing in Backend Development at Rakuten. I am committed to designing and implementing robust, scalable backend systems. 
