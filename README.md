@@ -16,7 +16,7 @@ Driven by curiosity and a commitment to excellence, I am eager to explore innova
 **Frontend Technologies:** HTML, CSS, and JavaScript
 
 **Database:** MySQL, PostgreSQL, Couchbase
-
+  
 **Orchestration:** Camunda
   
 **Tools:** Jenkins(CI/CD), Postman, VScode, IntelliJ, MacOS, JFrog, Grafana, SonarQube
